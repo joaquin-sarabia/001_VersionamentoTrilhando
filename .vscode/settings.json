@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TrilhasLinguaPortuguesa - Copia (3) - Copia - Copia.sln"
+    "dotnet.defaultSolution": "001_VersionamentoTrilhando.sln"
 }
